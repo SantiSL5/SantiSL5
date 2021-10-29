@@ -2,7 +2,7 @@
 <div>
     <img align="right" width="100" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
     <ul>
-        <li><b>Full Name:</b>Santiago Soler Llin</li>
+        <li><b>Full Name:</b> Santiago Soler Llin</li>
         <li><b>Studing:</b> Web Application Development</li>
     </ul>
 </div>
