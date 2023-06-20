@@ -78,8 +78,8 @@
 
 <div align="center">
   <a href="https://github.com/SantiSL5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSL5&show_icons=true&theme=codeSTACKr" />
-    <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSL5&layout=compact&theme=codeSTACKr" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SantiSL5&show_icons=true&theme=codeSTACKr" />
+    <img height="180em" weight="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantiSL5&layout=compact&theme=codeSTACKr" />
   </a>
 </div>
 
